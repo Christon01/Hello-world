@@ -1,0 +1,55 @@
+#hero {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+​
+}
+#Earthdefender {
+  color: #ffffff;
+  font-size: 18pt;
+  font-style: normal;
+  font-family: Arial;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+​
+}
+#laser {
+  background: #00ff00;
+  width: 2px;
+  height: 50px;
+  position: absolute;
+}
+.enemy {
+  /*background: #0000ff;
+  /*border: 1px solid red;
+  /* background-image: url('http://4.bp.blogspot.com/-p577qzxT-nE/UdSJOGdzg7I/AAAAAAAAAuo/kFi522wZROI/s315/alien1.png') */
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+#score {
+  color: #ffffff;
+  font-size: 18pt;
+  font-style: normal;
+  font-family: Arial;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+​
+#gameover {
+  color: #ff0000;
+  font-size: 30px;
+  font-style: normal;
+  font-family: Arial;
+  position: absolute;
+  left: 160px;
+  top: 200px;
+  visibility: hidden;
+}
+​
+<canvas id="GameCanvas" style="display: none;">Game Stuff</canvas>
+​
+}
